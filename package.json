@@ -1,0 +1,20 @@
+{
+  "name": "api-express-01",
+  "version": "1.0.0",
+  "description": "simple API with NodeJS and framework ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "N. Carmen Bravo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

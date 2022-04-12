@@ -1,0 +1,35 @@
+[ 
+    {
+        "id": 1,
+        "title": "Dynasty",
+        "sinopsis": "Follows two of America's wealthiest families as they feud for control over their fortune and their children.",
+        "genres": ["Drama"],
+        "created_by": "Sallie Patrick",
+        "cast": ["Elizabeth Gillies", "Grant Show", "Rafael de la Fuente", "Robert Christopher Riley"],
+        "episodes": ["I hardly reconognized you", "Spit it out", "Guilt is for insecure people", "Private as a Circus"],
+        "first_emision": "2022-01-10 17:00",
+        "rating": 7.4
+    },
+    { 
+        "id": 2,
+        "title": "Moon Knight",
+        "sinopsis": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+        "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+        "created_by": "Doug Moench",
+        "cast": ["Oscar Isaac", "Ethan Hawke", "May Calamawy"],
+        "episodes": ["The Goldfish Problem", "Summon the Suit"],
+        "first_emision": "2022-03-30 04:00",
+        "rating": 8.4
+    },
+    { 
+        "id": 3,
+        "title": "The Witcher",
+        "sinopsis": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery"],
+        "created_by": "Lauren Schmidt",
+        "cast": ["Henry Cavill", "Freya Allan", "Anya Chalotra"],
+        "episodes": ["The End's Beginning", "Four Marks", "Betrayer Moon", "Of Banquets, Bastards and Burials", "Bottled Appetites", "Rare Species"],
+        "first_emision": "2019-12-20 22:00",
+        "rating": 8.0
+    }
+]
